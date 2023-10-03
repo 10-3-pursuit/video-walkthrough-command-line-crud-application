@@ -18,7 +18,7 @@
 
 1. [Part 9 - AnimalController.js setup](https://drive.google.com/file/d/16G5JIMvvvwpbpMZoT0IaRmawO-Yv_X2h/view?usp=drive_link)
 
-1. [Part 10 - Animal.json setup](https://drive.google.com/file/d/1Sg349FziUL80pls8NcJHdXniY-8z6uWo/view?usp=drive_link)
+1. [Part 10 - Animals.json setup](https://drive.google.com/file/d/1Sg349FziUL80pls8NcJHdXniY-8z6uWo/view?usp=drive_link)
 
 1. [Part 11 - Add to Create Function in animalcontroller.js](https://drive.google.com/file/d/1Nm88FioJt8LKCyxY0AcVIRLlhKfCZrUO/view?usp=drive_link)
 
