@@ -2,23 +2,23 @@
 
 1. [Part 1 - App Demo](https://drive.google.com/file/d/1St9xYcKepymnYnKY1Pzq_3PwyjyW2Moo/view?usp=sharing)
 
-1. [Part 2- Process.argv Recap](https://drive.google.com/file/d/1QgDanhB1W3wbS5V1bP-LNdhVS3PAUqDV/view?usp=sharing)
+1. [Part 2- process.argv Recap](https://drive.google.com/file/d/1QgDanhB1W3wbS5V1bP-LNdhVS3PAUqDV/view?usp=sharing)
 
 1. [Part 3 - Environment Set Up](https://drive.google.com/file/d/14pkT7SFDYh4gwHj1y_xNtDaTISyh7QzS/view?usp=drive_link)
 
-1. [Part 4 - Package.json setup](https://drive.google.com/file/d/1DP3lPVMxMltaWkAnwOSz699HgrTrKw5V/view?usp=drive_link)
+1. [Part 4 - package.json setup](https://drive.google.com/file/d/1DP3lPVMxMltaWkAnwOSz699HgrTrKw5V/view?usp=drive_link)
 
-1. [Part 5 - Index.js file setup](https://drive.google.com/file/d/1wOWtLW2-XTogFcgFK2wL5ZY49GrHbQdx/view?usp=drive_link)
+1. [Part 5 - index.js file setup](https://drive.google.com/file/d/1wOWtLW2-XTogFcgFK2wL5ZY49GrHbQdx/view?usp=drive_link)
 
-1. [Part 6 - Animals.json data setup](https://drive.google.com/file/d/1IyAK1nY6_PIxj1WEqpeQeGT6tL1rAlZp/view?usp=drive_link)
+1. [Part 6 - animals.json data setup](https://drive.google.com/file/d/1IyAK1nY6_PIxj1WEqpeQeGT6tL1rAlZp/view?usp=drive_link)
 
-1. [Part 7 - Helpers.js setup](https://drive.google.com/file/d/1Gak7XUZuGLhYpKHz0N4jWFWwANUigYdR/view?usp=drive_link)
+1. [Part 7 - helpers.js setup](https://drive.google.com/file/d/1Gak7XUZuGLhYpKHz0N4jWFWwANUigYdR/view?usp=drive_link)
 
 1. [Part 8 - Read Action in index.js](https://drive.google.com/file/d/16G5JIMvvvwpbpMZoT0IaRmawO-Yv_X2h/view?usp=drive_link)
 
-1. [Part 9 - AnimalController.js setup](https://drive.google.com/file/d/16G5JIMvvvwpbpMZoT0IaRmawO-Yv_X2h/view?usp=drive_link)
+1. [Part 9 - animalController.js setup](https://drive.google.com/file/d/16G5JIMvvvwpbpMZoT0IaRmawO-Yv_X2h/view?usp=drive_link)
 
-1. [Part 10 - Animals.json setup](https://drive.google.com/file/d/1Sg349FziUL80pls8NcJHdXniY-8z6uWo/view?usp=drive_link)
+1. [Part 10 - animals.json setup](https://drive.google.com/file/d/1Sg349FziUL80pls8NcJHdXniY-8z6uWo/view?usp=drive_link)
 
 1. [Part 11 - Add to Create Function in animalcontroller.js](https://drive.google.com/file/d/1Nm88FioJt8LKCyxY0AcVIRLlhKfCZrUO/view?usp=drive_link)
 
