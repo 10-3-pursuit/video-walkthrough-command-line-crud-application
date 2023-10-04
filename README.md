@@ -5,4 +5,4 @@ Each video takes a chunk of the codealong and explains what to do. This will all
 
 The same techniques will apply to building your command line project.
 
-[VIEW VIDEO LINKS](videos.md)
+**[VIEW VIDEO LINKS](videos.md)**
