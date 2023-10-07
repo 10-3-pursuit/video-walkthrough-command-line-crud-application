@@ -1,6 +1,6 @@
 # VIDEO LINKS For Command Line CRUD Walkthrough
 
-<img src="assets/animals.jpg" width = "700px" height="500px">
+<img src="assets/animals.jpg" width = "500px" height="300px">
 
 ## 🐶 [**Final App Demo**](https://drive.google.com/file/d/1St9xYcKepymnYnKY1Pzq_3PwyjyW2Moo/view?usp=sharing) - Here is a demo of the final app
 
