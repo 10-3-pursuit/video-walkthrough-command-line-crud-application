@@ -1,6 +1,6 @@
 # VIDEO LINKS For Command Line CRUD Walkthrough
 
-1. [Final App Demonstration](https://drive.google.com/file/d/1St9xYcKepymnYnKY1Pzq_3PwyjyW2Moo/view?usp=sharing)
+[**Final App Demonstration**](https://drive.google.com/file/d/1St9xYcKepymnYnKY1Pzq_3PwyjyW2Moo/view?usp=sharing)
 
 1. [Part 1- `process.argv` Recap](https://drive.google.com/file/d/1QgDanhB1W3wbS5V1bP-LNdhVS3PAUqDV/view?usp=sharing)
 
