@@ -1,6 +1,6 @@
 # VIDEO LINKS For Command Line CRUD Walkthrough
 
-## 🐶 [**Final App Demonstration**](https://drive.google.com/file/d/1St9xYcKepymnYnKY1Pzq_3PwyjyW2Moo/view?usp=sharing)
+## 🐶 [**Final App Demo**](https://drive.google.com/file/d/1St9xYcKepymnYnKY1Pzq_3PwyjyW2Moo/view?usp=sharing) - Here is a demo of the final app
 
 ### Walkthrough
 
