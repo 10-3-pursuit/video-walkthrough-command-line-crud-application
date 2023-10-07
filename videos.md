@@ -16,7 +16,7 @@
 
 1. [Part 8 - `Read` Action in index.js](https://drive.google.com/file/d/16G5JIMvvvwpbpMZoT0IaRmawO-Yv_X2h/view?usp=drive_link)
 
-1. [Part 9 - `animalController.js` setup](https://drive.google.com/file/d/16G5JIMvvvwpbpMZoT0IaRmawO-Yv_X2h/view?usp=drive_link)
+1. [Part 9 - `animalController.js` setup](https://drive.google.com/file/d/1SLjQ6FmYmdwViA_u4PWNV-e2IsdHi4Bj/view?usp=drive_link)
 
 1. [Part 10 - `animals.json` setup](https://drive.google.com/file/d/1Sg349FziUL80pls8NcJHdXniY-8z6uWo/view?usp=drive_link)
 
