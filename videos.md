@@ -36,4 +36,4 @@
 
 1. [Part 17 - Add `score` function to controller and to action](https://drive.google.com/file/d/1SJOlLuotiXXlVFvzD1AHrB31HkSlfLM7/view?usp=drive_link)
 
-1. [Part 18 - `create` & `update` functions Bug Fix](https://drive.google.com/file/d/1WjUv8RGtoabjosnjv64HYHIdQWK2M2b-/view?usp=drive_link)
+1. [Part 18 - `create` & `update` functions Bug Fix](https://drive.google.com/file/d/1WjUv8RGtoabjosnjv64HYHIdQWK2M2b-/view?usp=drive_link) - based on the updated code in the lesson repo, you should not need this video. But it is here just in case.
