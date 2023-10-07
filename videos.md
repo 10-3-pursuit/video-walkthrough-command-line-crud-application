@@ -22,7 +22,7 @@
 
 1. [Part 10 - Add to `create` function in animalcontroller.js](https://drive.google.com/file/d/1Nm88FioJt8LKCyxY0AcVIRLlhKfCZrUO/view?usp=drive_link)
 
-1. [Part 11 - Add `create` function to index.js create action](https://drive.google.com/file/d/1JZjzhJT39L173H9mJ9bXkhmTL6go0jNW/view?usp=drive_link) - *Note:*the code in the lesson has been updated. So you should not get the bug that I received.
+1. [Part 11 - Add `create` function to index.js create action](https://drive.google.com/file/d/1JZjzhJT39L173H9mJ9bXkhmTL6go0jNW/view?usp=drive_link) - **Note:**the code in the lesson has been updated. So you should not get the bug that I received.
 
 1. [Part 12 - Add `index` function to controller and to action](https://drive.google.com/file/d/1x8DyEstKRi-jhatAZ7sw_eL5ByMVtONV/view?usp=drive_link)
 
